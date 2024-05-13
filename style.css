@@ -51,7 +51,7 @@ header{
 .logo{
 	float:left;
 	text-align: left;
-	font-size: 24px; line-height: 45px;
+	font-size: 24px; line-height: 42px;
 	color: #555;
 	text-decoration: none;
 	vertical-align: middle;
@@ -61,7 +61,7 @@ header{
 	}
 .logo img{
 	position: absolute;
-	width: 50px; height: auto;
+	width: 42px; height: auto;
 	margin: 0 0 0 0; left: 0; top: -2px;
 }
 nav, nav ul{
@@ -426,14 +426,14 @@ footer .widget:last-child{
 footer .widget .footerlogo{
 	float:left;
 	text-align: left;
-	font-size: 24px; line-height: 45px;
+	font-size: 24px; line-height: 42px;
 	text-decoration: none;
 	vertical-align: middle;
 	margin:0 0 0 0; padding-left: 60px;
 	}
 footer .widget .footerlogo img{
 	position: absolute;
-	width: 50px; height: auto;
+	width: 42px; height: auto;
 	margin: 0 0 0 0; left: 0; top: -2px;
 }
 

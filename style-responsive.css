@@ -232,11 +232,11 @@ footer .footerbottom .socialmedia{
 
 @media (max-width: 450px){
 .logo{
-	font-size: 18px; line-height: 45px;
+	font-size: 18px; line-height: 42px;
 	margin:4px 0 0 3%;
 	}
 .logo img{
-	width: 48px; height: auto; display: inline; vertical-align: middle; float: none;
+	width: 42px; height: auto; display: inline; vertical-align: middle; float: none;
 	margin-right: 5px;
 }	
 }
